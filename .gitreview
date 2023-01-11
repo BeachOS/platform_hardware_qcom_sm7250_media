@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/platform_hardware_qcom_sm7250_media
+defaultbranch=android13
